@@ -5,6 +5,6 @@ int main(int argc, char* argv[]) {
         std::cout << argv[1] << std::endl;
     }
     else {
-        std::cout << "Hello World" << std::endl;
+        std::cout << "Hello" << std::endl;
     }
 }
